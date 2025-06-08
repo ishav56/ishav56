@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Advanced Machine Learning and Big Data Analytics
 - 📈 Passionate about turning data into actionable insights
 - 💞️ I’m looking to collaborate on data-driven projects and open-source analytics tools
-- 📫 How to reach me: [Your Email] | [LinkedIn Profile]
+- 📫 How to reach me: [ishav.sharma02@gmail.com] | [https://www.linkedin.com/in/ishav-sharma-aa7176222]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can find stories hidden in spreadsheets like a detective finds clues!
 
